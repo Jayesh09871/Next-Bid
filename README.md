@@ -4,6 +4,11 @@
 
 ---
 
+## **Description**
+An advanced bidding and auction platform built using the MERN stack, allowing users to list, bid, and purchase items in a secure and real-time environment. The platform includes user authentication, live bidding, auction management, and transaction history.
+
+---
+
 ##  Next Steps for Development / Upcoming Features
 
 1. **Push Notifications for Bidding Updates**  
@@ -32,10 +37,6 @@
 
 9. **Enhanced Security Features**  
     - Implement advanced security protocols like two-factor authentication (2FA), encryption, and anti-fraud systems to ensure safe transactions.
-
-
-## **Description**
-An advanced bidding and auction platform built using the MERN stack, allowing users to list, bid, and purchase items in a secure and real-time environment. The platform includes user authentication, live bidding, auction management, and transaction history.
 
 ---
 
